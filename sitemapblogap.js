@@ -90,8 +90,8 @@ function showEntries(entries){
         s += "</p>";
     }
     s += "<div style='text-align:right; font-size:80%'>";
-    s += "widget untuk: ";
-    s += "<a href='http://blog.alzuardaputra.web.id'>Blog AlzuardaPutra</a>";
+    s += "Widget Oleh: ";
+    s += "<a href='http://blogputra.my.id'>Blog Putra</a>";
     s += "</div>";
     document.getElementById("cl_content_list").innerHTML = s;
 }
